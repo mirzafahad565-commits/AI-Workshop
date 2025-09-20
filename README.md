@@ -1,4 +1,4 @@
 # AI-Workshop
 
 
-this are dummy repo
+this is dummy repo
